@@ -6,6 +6,6 @@ Get ncurses here: http://www.gnu.org/software/ncurses/ncurses.html
 
 ## Screenshots
 
-![](http://imgur.com/hXhZhVC)
+![](http://i.imgur.com/hXhZhVC.jpg)
 
-![](http://imgur.com/NI0Jpha)
+![](http://i.imgur.com/NI0Jpha.jpg)
